@@ -1,0 +1,38 @@
+@media screen and (max-width: 576px) {
+    body{
+        width: 1112px;
+        height: 12356px;
+        background: #fff;
+    } */
+    
+}
+.nav-content,
+.nav-menus,
+.banner-section {
+    flex-direction: column;
+}
+.banner-title , .banner-img img
+.banner-section{
+    margin: 0 auto;
+}
+.banner-title{
+    padding-left: 144px;
+}
+.nav-container{
+    background: #fff;
+    margin-top: 50px;
+}
+.nav-content{
+    background-color: white;
+    width: 100%;
+    height: auto;
+}
+.nav-menus{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
+.banner-section{
+    flex-direction: column-reverse;
+} */
